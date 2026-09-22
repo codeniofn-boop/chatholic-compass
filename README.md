@@ -71,7 +71,19 @@ If `npm install` fails while `onnxruntime-node` tries to download optional GPU (
 | `npm run dev` / `build` / `start` | Next.js dev server / production build / serve |
 | `npm run search -- "question"` | Search from the command line (add `--json` for the raw response) |
 | `npm run eval` | Run the retrieval evaluation set in `data/eval/questions.json` (`--verbose` shows misses) |
+| `npm run build-static` | Write `dist/catechism-compass.html`, a single file that runs in the browser with no server (see below) |
 | `npm run lint` / `typecheck` | ESLint / `tsc --noEmit` |
+
+### Single-file edition
+
+`npm run build-static` bundles the ingested database (Catechism paragraphs with their heading tree,
+footnotes and Scripture references; the Douay-Rheims verses and passages; the topic index) and the
+browser app from `static/` into `dist/catechism-compass.html`, about 7 MB, which opens straight from
+disk. It needs `npm run ingest` but not `npm run embed`: search runs in plain browser JavaScript with
+the same keyword scoring (FTS5-style BM25 with Porter stemming), topic index, stemmer and rule-marker
+bonus as the server, minus the embedding signal. The two-panel results, surrounding-paragraphs
+expander, article and chapter readers, light/dark mode and browser-only search history all work
+offline. `dist/` is gitignored because the file contains the Catechism text (see the licence note).
 
 ## API
 

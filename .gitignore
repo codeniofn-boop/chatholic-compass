@@ -5,6 +5,9 @@
 /.next/
 /out/
 /build
+
+# single-file edition (contains the copyrighted Catechism text; see README)
+/dist/
 next-env.d.ts
 *.tsbuildinfo
 

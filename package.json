@@ -14,7 +14,8 @@
     "ingest": "tsx scripts/ingest.ts",
     "embed": "tsx scripts/embed.ts",
     "search": "tsx scripts/search-cli.ts",
-    "eval": "tsx scripts/eval.ts"
+    "eval": "tsx scripts/eval.ts",
+    "build-static": "tsx scripts/build-static.ts"
   },
   "dependencies": {
     "@huggingface/transformers": "^4.3.0",
