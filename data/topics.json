@@ -1,0 +1,1655 @@
+[
+  {
+    "slug": "existence-of-god",
+    "name": "Knowing God exists",
+    "category": "Faith and revelation",
+    "description": "How the Church says God can be known from creation and the human heart, and why revelation is still needed.",
+    "keywords": [
+      "does god exist",
+      "proof of god",
+      "know god by reason",
+      "natural knowledge of god",
+      "desire for god",
+      "agnostic",
+      "why believe in god"
+    ],
+    "ranges": [
+      [
+        27,
+        49
+      ]
+    ],
+    "scripture": [
+      "Romans 1:19-20",
+      "Wisdom 13:1-9",
+      "Psalm 19:1-4",
+      "Acts 17:24-28"
+    ]
+  },
+  {
+    "slug": "scripture-and-tradition",
+    "name": "Scripture, Tradition and the Magisterium",
+    "category": "Faith and revelation",
+    "description": "How divine revelation is handed on through Scripture and Tradition, and how the Bible is to be read and interpreted.",
+    "keywords": [
+      "bible alone",
+      "sola scriptura",
+      "tradition",
+      "magisterium",
+      "interpret scripture",
+      "inspiration of scripture",
+      "canon of scripture",
+      "senses of scripture",
+      "is the bible literally true"
+    ],
+    "ranges": [
+      [
+        74,
+        141
+      ]
+    ],
+    "scripture": [
+      "2 Timothy 3:14-17",
+      "2 Thessalonians 2:15",
+      "2 Peter 1:20-21",
+      "John 21:25",
+      "Luke 24:44-45"
+    ]
+  },
+  {
+    "slug": "faith",
+    "name": "Faith and doubt",
+    "category": "Faith and revelation",
+    "description": "What faith is, the obedience of faith, faith and reason, and perseverance in faith through doubt.",
+    "keywords": [
+      "what is faith",
+      "doubt",
+      "losing my faith",
+      "faith and reason",
+      "faith and science",
+      "certainty of faith",
+      "believe without seeing"
+    ],
+    "ranges": [
+      [
+        142,
+        184
+      ],
+      [
+        2087,
+        2089
+      ]
+    ],
+    "scripture": [
+      "Hebrews 11:1-6",
+      "John 20:24-29",
+      "Mark 9:23-24",
+      "Romans 10:14-17",
+      "James 2:14-26"
+    ]
+  },
+  {
+    "slug": "trinity",
+    "name": "The Holy Trinity",
+    "category": "Faith and revelation",
+    "description": "One God in three Persons: Father, Son and Holy Spirit, the central mystery of Christian faith.",
+    "keywords": [
+      "trinity",
+      "three persons one god",
+      "father son holy spirit",
+      "is jesus god",
+      "divinity of christ",
+      "holy spirit is god"
+    ],
+    "ranges": [
+      [
+        232,
+        267
+      ],
+      [
+        683,
+        747
+      ]
+    ],
+    "scripture": [
+      "Matthew 28:19",
+      "John 1:1-14",
+      "John 14:16-26",
+      "2 Corinthians 13:13",
+      "John 10:30"
+    ]
+  },
+  {
+    "slug": "creation-and-evolution",
+    "name": "Creation, science and evolution",
+    "category": "Faith and revelation",
+    "description": "God as Creator, the meaning of the creation accounts, providence, and how faith relates to scientific accounts of origins.",
+    "keywords": [
+      "evolution",
+      "creation",
+      "genesis literal",
+      "six days",
+      "big bang",
+      "science and faith",
+      "providence",
+      "why is there suffering and evil"
+    ],
+    "ranges": [
+      [
+        279,
+        324
+      ],
+      [
+        337,
+        349
+      ],
+      [
+        355,
+        384
+      ]
+    ],
+    "scripture": [
+      "Genesis 1:1-31",
+      "Genesis 2:4-25",
+      "Psalm 104:24-30",
+      "Wisdom 11:24-26",
+      "Colossians 1:15-17"
+    ]
+  },
+  {
+    "slug": "original-sin",
+    "name": "Original sin and the Fall",
+    "category": "Faith and revelation",
+    "description": "The fall of the first humans, original sin and its consequences, and the promise of redemption.",
+    "keywords": [
+      "original sin",
+      "the fall",
+      "adam and eve",
+      "why are we born sinful",
+      "concupiscence",
+      "devil",
+      "satan",
+      "fallen angels"
+    ],
+    "ranges": [
+      [
+        385,
+        421
+      ],
+      [
+        391,
+        395
+      ]
+    ],
+    "scripture": [
+      "Genesis 3:1-24",
+      "Romans 5:12-21",
+      "Wisdom 2:23-24",
+      "1 Corinthians 15:21-22"
+    ]
+  },
+  {
+    "slug": "jesus-christ",
+    "name": "Jesus Christ, true God and true man",
+    "category": "Jesus Christ",
+    "description": "The Incarnation, the mysteries of Christ's life, his death and Resurrection, and why the Word became flesh.",
+    "keywords": [
+      "incarnation",
+      "why did god become man",
+      "jesus true god and true man",
+      "virgin birth",
+      "resurrection of jesus",
+      "did jesus really rise",
+      "crucifixion",
+      "why did jesus die",
+      "ascension",
+      "second coming"
+    ],
+    "ranges": [
+      [
+        456,
+        483
+      ],
+      [
+        512,
+        570
+      ],
+      [
+        571,
+        630
+      ],
+      [
+        638,
+        682
+      ]
+    ],
+    "scripture": [
+      "John 1:14",
+      "Philippians 2:5-11",
+      "1 Corinthians 15:3-8",
+      "Luke 24:36-43",
+      "Hebrews 4:15",
+      "Acts 1:9-11"
+    ]
+  },
+  {
+    "slug": "mary",
+    "name": "Mary, Mother of God",
+    "category": "Jesus Christ",
+    "description": "The Immaculate Conception, Mary's perpetual virginity, her role as Mother of God and of the Church, the Assumption, and devotion to Mary.",
+    "keywords": [
+      "mary",
+      "immaculate conception",
+      "assumption",
+      "perpetual virginity",
+      "why do catholics pray to mary",
+      "mother of god",
+      "hail mary",
+      "rosary",
+      "brothers of jesus",
+      "pray to mary",
+      "intercession of mary",
+      "marian",
+      "our lady"
+    ],
+    "ranges": [
+      [
+        484,
+        511
+      ],
+      [
+        963,
+        975
+      ],
+      [
+        2673,
+        2679
+      ]
+    ],
+    "scripture": [
+      "Luke 1:26-38",
+      "Luke 1:39-56",
+      "John 2:1-11",
+      "John 19:25-27",
+      "Revelation 12:1-6"
+    ]
+  },
+  {
+    "slug": "the-church",
+    "name": "The Church: one, holy, catholic, apostolic",
+    "category": "The Church",
+    "description": "What the Church is, her marks, the role of the Pope and bishops, and the question of salvation outside the Church.",
+    "keywords": [
+      "why do i need the church",
+      "one true church",
+      "no salvation outside the church",
+      "pope",
+      "papal infallibility",
+      "bishops",
+      "apostolic succession",
+      "protestants",
+      "orthodox",
+      "non catholics saved",
+      "other religions",
+      "not catholic",
+      "non-catholic",
+      "non catholic",
+      "saved",
+      "salvation",
+      "outside the church",
+      "other christians",
+      "other religions",
+      "jews",
+      "muslims"
+    ],
+    "ranges": [
+      [
+        748,
+        870
+      ],
+      [
+        871,
+        896
+      ],
+      [
+        936,
+        945
+      ]
+    ],
+    "scripture": [
+      "Matthew 16:13-19",
+      "Matthew 18:15-18",
+      "Ephesians 4:1-6",
+      "1 Timothy 3:15",
+      "John 17:20-23",
+      "Acts 2:42-47"
+    ]
+  },
+  {
+    "slug": "saints-and-purgatory",
+    "name": "Death, judgment, heaven, purgatory and hell",
+    "category": "The Church",
+    "description": "The last things: particular judgment, heaven, purgatory, hell, the resurrection of the body, praying for the dead and the communion of saints.",
+    "keywords": [
+      "purgatory",
+      "hell",
+      "heaven",
+      "what happens when we die",
+      "judgment",
+      "praying for the dead",
+      "praying to saints",
+      "communion of saints",
+      "indulgences",
+      "resurrection of the body",
+      "cremation",
+      "saints",
+      "pray to the saints",
+      "intercession of the saints",
+      "intercession",
+      "death"
+    ],
+    "ranges": [
+      [
+        946,
+        962
+      ],
+      [
+        988,
+        1019
+      ],
+      [
+        1020,
+        1060
+      ],
+      [
+        1471,
+        1479
+      ],
+      [
+        2299,
+        2301
+      ]
+    ],
+    "scripture": [
+      "2 Maccabees 12:43-46",
+      "1 Corinthians 3:11-15",
+      "Matthew 25:31-46",
+      "Revelation 21:1-7",
+      "Luke 16:19-31",
+      "Hebrews 12:1",
+      "1 Corinthians 15:42-44"
+    ]
+  },
+  {
+    "slug": "baptism",
+    "name": "Baptism",
+    "category": "Sacraments",
+    "description": "The necessity and effects of Baptism, infant baptism, and the fate of unbaptized children.",
+    "keywords": [
+      "baptism",
+      "infant baptism",
+      "why baptize babies",
+      "is baptism necessary",
+      "unbaptized babies",
+      "baptism of desire",
+      "godparents",
+      "original sin removed"
+    ],
+    "ranges": [
+      [
+        1213,
+        1284
+      ]
+    ],
+    "scripture": [
+      "Matthew 28:19-20",
+      "John 3:3-5",
+      "Acts 2:38-41",
+      "Romans 6:3-4",
+      "Acts 16:31-33",
+      "Mark 10:13-16"
+    ]
+  },
+  {
+    "slug": "confirmation",
+    "name": "Confirmation",
+    "category": "Sacraments",
+    "description": "The sacrament of Confirmation, its effects and who may receive it.",
+    "keywords": [
+      "confirmation",
+      "gifts of the holy spirit",
+      "chrism",
+      "sealed with the spirit"
+    ],
+    "ranges": [
+      [
+        1285,
+        1321
+      ]
+    ],
+    "scripture": [
+      "Acts 8:14-17",
+      "Acts 19:1-6",
+      "Isaiah 11:1-3",
+      "John 14:16-17"
+    ]
+  },
+  {
+    "slug": "eucharist",
+    "name": "The Eucharist and the Real Presence",
+    "category": "Sacraments",
+    "description": "The Mass as sacrifice, the Real Presence of Christ in the Eucharist, transubstantiation, and who may receive Communion.",
+    "keywords": [
+      "eucharist",
+      "real presence",
+      "transubstantiation",
+      "receive communion",
+      "mass as sacrifice",
+      "body and blood",
+      "adoration",
+      "who can receive communion",
+      "communion in a state of sin",
+      "eucharistic fast",
+      "first communion",
+      "holy communion",
+      "blessed sacrament",
+      "mass"
+    ],
+    "ranges": [
+      [
+        1322,
+        1419
+      ],
+      [
+        1385,
+        1390
+      ]
+    ],
+    "scripture": [
+      "John 6:48-58",
+      "Matthew 26:26-28",
+      "Luke 22:19-20",
+      "1 Corinthians 11:23-29",
+      "1 Corinthians 10:16-17"
+    ]
+  },
+  {
+    "slug": "confession",
+    "name": "Confession and forgiveness of sins",
+    "category": "Sacraments",
+    "description": "The sacrament of Penance and Reconciliation: contrition, confessing to a priest, absolution, penance, and the obligation to confess mortal sins.",
+    "keywords": [
+      "confession",
+      "reconciliation",
+      "penance",
+      "why confess to a priest",
+      "absolution",
+      "forgiveness of sins",
+      "how often confess",
+      "examination of conscience",
+      "contrition",
+      "can god forgive me",
+      "mortal sin confession"
+    ],
+    "ranges": [
+      [
+        1422,
+        1498
+      ],
+      [
+        976,
+        987
+      ]
+    ],
+    "scripture": [
+      "John 20:21-23",
+      "Matthew 18:18",
+      "James 5:16",
+      "Luke 15:11-32",
+      "2 Corinthians 5:18-20",
+      "1 John 1:8-9",
+      "Psalm 51:1-12"
+    ]
+  },
+  {
+    "slug": "anointing-of-the-sick",
+    "name": "Anointing of the Sick",
+    "category": "Sacraments",
+    "description": "The sacrament for the seriously ill and dying, and preparation for death (Viaticum).",
+    "keywords": [
+      "anointing of the sick",
+      "last rites",
+      "extreme unction",
+      "viaticum",
+      "dying",
+      "sick"
+    ],
+    "ranges": [
+      [
+        1499,
+        1532
+      ]
+    ],
+    "scripture": [
+      "James 5:14-15",
+      "Mark 6:12-13",
+      "Matthew 25:36"
+    ]
+  },
+  {
+    "slug": "holy-orders",
+    "name": "Priesthood and Holy Orders",
+    "category": "Sacraments",
+    "description": "Bishops, priests and deacons, the ministerial priesthood, celibacy, and who can be ordained.",
+    "keywords": [
+      "priest",
+      "holy orders",
+      "ordination",
+      "women priests",
+      "female priests",
+      "celibacy",
+      "deacon",
+      "bishop",
+      "why can't women be priests",
+      "priesthood of all believers"
+    ],
+    "ranges": [
+      [
+        1536,
+        1600
+      ]
+    ],
+    "scripture": [
+      "Hebrews 5:1-10",
+      "1 Timothy 4:14",
+      "2 Timothy 1:6",
+      "John 20:21-23",
+      "Titus 1:5-9"
+    ]
+  },
+  {
+    "slug": "marriage",
+    "name": "Marriage",
+    "category": "Marriage and family",
+    "description": "The sacrament of Matrimony: unity, indissolubility, openness to children, mixed marriages, and the domestic church.",
+    "keywords": [
+      "marriage",
+      "matrimony",
+      "wedding",
+      "sacrament of marriage",
+      "married outside the church",
+      "mixed marriage",
+      "marrying a non catholic",
+      "purpose of marriage",
+      "annulment",
+      "vows"
+    ],
+    "ranges": [
+      [
+        1601,
+        1666
+      ],
+      [
+        2201,
+        2233
+      ]
+    ],
+    "scripture": [
+      "Genesis 2:18-24",
+      "Matthew 19:3-9",
+      "Ephesians 5:21-33",
+      "1 Corinthians 7:1-16",
+      "Tobit 8:4-9",
+      "John 2:1-11"
+    ]
+  },
+  {
+    "slug": "divorce-and-remarriage",
+    "name": "Divorce, remarriage and annulment",
+    "category": "Marriage and family",
+    "description": "The Church's teaching on the indissolubility of marriage, divorce, civil remarriage, separation and annulments.",
+    "keywords": [
+      "divorce",
+      "remarriage",
+      "divorced and remarried",
+      "annulment",
+      "separation",
+      "can i receive communion divorced",
+      "adultery",
+      "living together",
+      "cohabitation",
+      "free union",
+      "polygamy",
+      "divorced",
+      "remarried",
+      "remarry",
+      "civilly remarried",
+      "second marriage"
+    ],
+    "ranges": [
+      [
+        1638,
+        1651
+      ],
+      [
+        2380,
+        2391
+      ]
+    ],
+    "scripture": [
+      "Matthew 19:3-12",
+      "Mark 10:2-12",
+      "Luke 16:18",
+      "1 Corinthians 7:10-11",
+      "Malachi 2:14-16"
+    ]
+  },
+  {
+    "slug": "sexuality-and-chastity",
+    "name": "Sexuality and chastity",
+    "category": "Marriage and family",
+    "description": "The Sixth and Ninth Commandments: chastity according to one's state of life, lust, masturbation, pornography, fornication, and homosexuality.",
+    "keywords": [
+      "chastity",
+      "sex before marriage",
+      "premarital sex",
+      "fornication",
+      "masturbation",
+      "pornography",
+      "lust",
+      "homosexuality",
+      "gay",
+      "same sex",
+      "same-sex attraction",
+      "purity",
+      "modesty",
+      "rape",
+      "prostitution"
+    ],
+    "ranges": [
+      [
+        2331,
+        2359
+      ],
+      [
+        2514,
+        2533
+      ]
+    ],
+    "scripture": [
+      "Matthew 5:27-30",
+      "1 Corinthians 6:12-20",
+      "1 Thessalonians 4:3-8",
+      "Genesis 1:27-28",
+      "Romans 1:24-27",
+      "Galatians 5:16-24"
+    ]
+  },
+  {
+    "slug": "contraception",
+    "name": "Contraception and family planning",
+    "category": "Marriage and family",
+    "description": "The unitive and procreative meaning of the marital act; contraception, natural family planning, responsible parenthood and sterilization.",
+    "keywords": [
+      "contraception",
+      "contraceptive",
+      "birth control",
+      "the pill",
+      "condoms",
+      "natural family planning",
+      "nfp",
+      "sterilization",
+      "vasectomy",
+      "tubal ligation",
+      "family planning",
+      "how many children",
+      "responsible parenthood",
+      "spacing births",
+      "periodic continence"
+    ],
+    "ranges": [
+      [
+        2366,
+        2372
+      ],
+      [
+        2398,
+        2399
+      ]
+    ],
+    "scripture": [
+      "Genesis 1:27-28",
+      "Genesis 38:8-10",
+      "Psalm 127:3-5",
+      "Tobit 8:4-9"
+    ]
+  },
+  {
+    "slug": "abortion",
+    "name": "Abortion and respect for unborn life",
+    "category": "Life issues",
+    "description": "Human life from conception, abortion, embryo research and prenatal diagnosis.",
+    "keywords": [
+      "abortion",
+      "unborn",
+      "embryo",
+      "conception",
+      "when does life begin",
+      "pro life",
+      "excommunication for abortion",
+      "prenatal diagnosis",
+      "embryo research",
+      "stem cells",
+      "miscarriage"
+    ],
+    "ranges": [
+      [
+        2270,
+        2275
+      ]
+    ],
+    "scripture": [
+      "Jeremiah 1:5",
+      "Psalm 139:13-16",
+      "Luke 1:39-44",
+      "Job 10:8-12",
+      "Exodus 20:13"
+    ]
+  },
+  {
+    "slug": "euthanasia-and-suicide",
+    "name": "Euthanasia, suicide and end of life",
+    "category": "Life issues",
+    "description": "Euthanasia, assisted suicide, palliative care, refusing burdensome treatment, and suicide and its moral responsibility.",
+    "keywords": [
+      "euthanasia",
+      "assisted suicide",
+      "medical assistance in dying",
+      "maid",
+      "suicide",
+      "is suicide a mortal sin",
+      "palliative care",
+      "life support",
+      "end of life",
+      "dying with dignity",
+      "do not resuscitate",
+      "someone who died by suicide"
+    ],
+    "ranges": [
+      [
+        2276,
+        2283
+      ],
+      [
+        2299,
+        2301
+      ]
+    ],
+    "scripture": [
+      "Deuteronomy 30:19-20",
+      "Job 1:21",
+      "Romans 14:7-9",
+      "Psalm 23:1-6",
+      "2 Corinthians 4:16-18"
+    ]
+  },
+  {
+    "slug": "death-penalty-and-war",
+    "name": "Self-defence, the death penalty and war",
+    "category": "Life issues",
+    "description": "Legitimate defence, the death penalty (revised teaching, 2018), avoiding war, just war conditions, and the arms race.",
+    "keywords": [
+      "death penalty",
+      "capital punishment",
+      "self defense",
+      "self-defence",
+      "just war",
+      "war",
+      "pacifism",
+      "conscientious objection",
+      "nuclear weapons",
+      "arms race",
+      "killing in self defense",
+      "military service",
+      "violence"
+    ],
+    "ranges": [
+      [
+        2263,
+        2267
+      ],
+      [
+        2302,
+        2317
+      ]
+    ],
+    "scripture": [
+      "Matthew 5:38-48",
+      "Romans 12:17-21",
+      "Romans 13:1-4",
+      "Exodus 20:13",
+      "Isaiah 2:4",
+      "Matthew 26:52"
+    ]
+  },
+  {
+    "slug": "health-and-body",
+    "name": "Care for health, drugs and the body",
+    "category": "Life issues",
+    "description": "Respect for health, drug and alcohol abuse, scientific research on humans, organ donation, and respect for the dead.",
+    "keywords": [
+      "drugs",
+      "alcohol",
+      "smoking",
+      "drunkenness",
+      "organ donation",
+      "transplant",
+      "medical research",
+      "cremation",
+      "autopsy",
+      "respect for the body",
+      "tattoo",
+      "gluttony",
+      "health"
+    ],
+    "ranges": [
+      [
+        2288,
+        2301
+      ]
+    ],
+    "scripture": [
+      "1 Corinthians 6:19-20",
+      "Sirach 38:1-15",
+      "Proverbs 23:29-35",
+      "Romans 12:1-2"
+    ]
+  },
+  {
+    "slug": "mortal-and-venial-sin",
+    "name": "Sin: mortal and venial",
+    "category": "Moral life",
+    "description": "What sin is, the difference between mortal and venial sin, the conditions for mortal sin, the capital sins, and sins against the Holy Spirit.",
+    "keywords": [
+      "what is a mortal sin",
+      "mortal sin",
+      "venial sin",
+      "grave matter",
+      "full knowledge",
+      "deliberate consent",
+      "seven deadly sins",
+      "capital sins",
+      "unforgivable sin",
+      "sin against the holy spirit",
+      "occasion of sin",
+      "mortal",
+      "venial",
+      "grave sin",
+      "serious sin",
+      "deadly sin"
+    ],
+    "ranges": [
+      [
+        1846,
+        1876
+      ]
+    ],
+    "scripture": [
+      "1 John 5:16-17",
+      "1 John 3:4-10",
+      "Romans 7:14-25",
+      "Galatians 5:19-21",
+      "Matthew 12:31-32",
+      "James 1:13-15"
+    ]
+  },
+  {
+    "slug": "conscience",
+    "name": "Conscience and moral decisions",
+    "category": "Moral life",
+    "description": "The dignity of conscience, the duty to form it, erroneous conscience, and the sources of the morality of human acts.",
+    "keywords": [
+      "conscience",
+      "follow my conscience",
+      "forming conscience",
+      "erroneous conscience",
+      "moral decision",
+      "intention",
+      "circumstances",
+      "does the end justify the means",
+      "double effect",
+      "freedom",
+      "free will",
+      "responsibility"
+    ],
+    "ranges": [
+      [
+        1730,
+        1761
+      ],
+      [
+        1776,
+        1802
+      ]
+    ],
+    "scripture": [
+      "Romans 2:14-16",
+      "1 Timothy 1:5",
+      "Acts 24:16",
+      "Psalm 119:105",
+      "1 Corinthians 8:7-13"
+    ]
+  },
+  {
+    "slug": "virtues-and-grace",
+    "name": "Virtues, grace and holiness",
+    "category": "Moral life",
+    "description": "The cardinal and theological virtues, grace and justification, merit, and the universal call to holiness.",
+    "keywords": [
+      "virtue",
+      "prudence",
+      "justice",
+      "fortitude",
+      "temperance",
+      "hope",
+      "charity",
+      "love",
+      "grace",
+      "justification",
+      "faith and works",
+      "saved by faith alone",
+      "merit",
+      "holiness",
+      "gifts of the spirit",
+      "fruits of the spirit"
+    ],
+    "ranges": [
+      [
+        1803,
+        1845
+      ],
+      [
+        1987,
+        2029
+      ]
+    ],
+    "scripture": [
+      "1 Corinthians 13:1-13",
+      "Wisdom 8:7",
+      "Ephesians 2:8-10",
+      "James 2:14-26",
+      "Romans 5:1-5",
+      "Galatians 5:22-23",
+      "Matthew 5:48"
+    ]
+  },
+  {
+    "slug": "sunday-obligation",
+    "name": "Sunday Mass and holy days",
+    "category": "Worship and prayer",
+    "description": "The Third Commandment: the Lord's Day, the obligation to attend Mass on Sundays and holy days, and Sunday rest.",
+    "keywords": [
+      "skip mass",
+      "missing mass",
+      "sunday obligation",
+      "holy days of obligation",
+      "is it a sin to miss mass",
+      "sunday rest",
+      "working on sunday",
+      "sabbath",
+      "go to mass every week",
+      "precepts of the church",
+      "obligation to attend mass"
+    ],
+    "ranges": [
+      [
+        2168,
+        2195
+      ],
+      [
+        2041,
+        2043
+      ]
+    ],
+    "scripture": [
+      "Exodus 20:8-11",
+      "Deuteronomy 5:12-15",
+      "Mark 2:27-28",
+      "Acts 20:7",
+      "Hebrews 10:24-25",
+      "Revelation 1:10"
+    ]
+  },
+  {
+    "slug": "prayer",
+    "name": "Prayer",
+    "category": "Worship and prayer",
+    "description": "What prayer is, its forms (blessing, petition, intercession, thanksgiving, praise), difficulties in prayer, unanswered prayer, and the Our Father.",
+    "keywords": [
+      "how to pray",
+      "prayer",
+      "unanswered prayer",
+      "distractions in prayer",
+      "dryness",
+      "does god hear my prayers",
+      "intercession",
+      "our father",
+      "lord's prayer",
+      "meditation",
+      "contemplation",
+      "liturgy of the hours",
+      "praise",
+      "thanksgiving"
+    ],
+    "ranges": [
+      [
+        2558,
+        2616
+      ],
+      [
+        2623,
+        2649
+      ],
+      [
+        2725,
+        2758
+      ],
+      [
+        2759,
+        2865
+      ]
+    ],
+    "scripture": [
+      "Matthew 6:5-15",
+      "Luke 11:1-13",
+      "Luke 18:1-8",
+      "Philippians 4:6-7",
+      "1 Thessalonians 5:16-18",
+      "Romans 8:26-27",
+      "Psalm 130:1-8"
+    ]
+  },
+  {
+    "slug": "forgiveness",
+    "name": "Forgiving others and being forgiven",
+    "category": "Worship and prayer",
+    "description": "The duty to forgive, 'forgive us our trespasses as we forgive', mercy, and love of enemies.",
+    "keywords": [
+      "forgiveness",
+      "forgive",
+      "forgiving others",
+      "love your enemies",
+      "mercy",
+      "grudge",
+      "reconcile",
+      "how many times forgive",
+      "forgive us our trespasses",
+      "revenge",
+      "anger",
+      "hatred"
+    ],
+    "ranges": [
+      [
+        2838,
+        2845
+      ],
+      [
+        2302,
+        2306
+      ],
+      [
+        1846,
+        1851
+      ]
+    ],
+    "scripture": [
+      "Matthew 18:21-35",
+      "Matthew 6:12-15",
+      "Luke 23:33-34",
+      "Matthew 5:43-48",
+      "Colossians 3:12-13",
+      "Ephesians 4:31-32",
+      "Luke 15:11-32"
+    ]
+  },
+  {
+    "slug": "first-commandment",
+    "name": "Worship of God, superstition, idolatry, atheism",
+    "category": "Commandments",
+    "description": "The First Commandment: adoration, superstition, divination and magic, idolatry (including money and power), sacrilege, atheism and agnosticism, and sacred images.",
+    "keywords": [
+      "idolatry",
+      "superstition",
+      "horoscope",
+      "astrology",
+      "tarot",
+      "fortune telling",
+      "psychic",
+      "magic",
+      "occult",
+      "ouija",
+      "atheism",
+      "agnosticism",
+      "sacred images",
+      "statues",
+      "worship of images",
+      "new age",
+      "yoga",
+      "reiki"
+    ],
+    "ranges": [
+      [
+        2084,
+        2141
+      ]
+    ],
+    "scripture": [
+      "Exodus 20:2-6",
+      "Deuteronomy 6:4-5",
+      "Deuteronomy 18:10-12",
+      "Matthew 4:10",
+      "Matthew 6:24",
+      "Acts 17:22-31"
+    ]
+  },
+  {
+    "slug": "name-of-god-and-oaths",
+    "name": "God's name, blasphemy and oaths",
+    "category": "Commandments",
+    "description": "The Second Commandment: reverence for the name of God, blasphemy, swearing, oaths and perjury, and the Christian name.",
+    "keywords": [
+      "blasphemy",
+      "taking god's name in vain",
+      "swearing",
+      "cursing",
+      "oath",
+      "perjury",
+      "vows",
+      "swearing on the bible",
+      "christian name",
+      "baptismal name"
+    ],
+    "ranges": [
+      [
+        2142,
+        2167
+      ]
+    ],
+    "scripture": [
+      "Exodus 20:7",
+      "Matthew 5:33-37",
+      "James 5:12",
+      "Psalm 29:2",
+      "Philippians 2:9-11"
+    ]
+  },
+  {
+    "slug": "family-and-authority",
+    "name": "Family, parents and civil authority",
+    "category": "Commandments",
+    "description": "The Fourth Commandment: duties of children and parents, the family in God's plan, care for elderly parents, and duties of citizens and civil authorities.",
+    "keywords": [
+      "honor your father and mother",
+      "parents",
+      "children",
+      "obedience to parents",
+      "elderly parents",
+      "raising children",
+      "education of children",
+      "family",
+      "civil authority",
+      "obey the government",
+      "civil disobedience",
+      "voting",
+      "immigration",
+      "patriotism",
+      "taxes"
+    ],
+    "ranges": [
+      [
+        2196,
+        2257
+      ]
+    ],
+    "scripture": [
+      "Exodus 20:12",
+      "Ephesians 6:1-4",
+      "Sirach 3:1-16",
+      "Colossians 3:20-21",
+      "Romans 13:1-7",
+      "Acts 5:29",
+      "Luke 2:51"
+    ]
+  },
+  {
+    "slug": "social-justice",
+    "name": "Social justice and the common good",
+    "category": "Social teaching",
+    "description": "The person and society, the common good, solidarity, subsidiarity, participation in social life, and social justice.",
+    "keywords": [
+      "social justice",
+      "common good",
+      "solidarity",
+      "subsidiarity",
+      "society",
+      "human dignity",
+      "equality",
+      "discrimination",
+      "racism",
+      "rights",
+      "participation",
+      "politics",
+      "state"
+    ],
+    "ranges": [
+      [
+        1877,
+        1948
+      ]
+    ],
+    "scripture": [
+      "Micah 6:8",
+      "Isaiah 1:17",
+      "Matthew 25:31-46",
+      "Galatians 3:28",
+      "James 2:1-9",
+      "Acts 4:32-35"
+    ]
+  },
+  {
+    "slug": "wealth-work-and-poverty",
+    "name": "Wealth, work, property and the poor",
+    "category": "Social teaching",
+    "description": "The Seventh Commandment: private property and the universal destination of goods, theft, just wages, economic life, care for creation and animals, justice among nations, and love for the poor.",
+    "keywords": [
+      "stealing",
+      "theft",
+      "private property",
+      "capitalism",
+      "socialism",
+      "communism",
+      "just wage",
+      "workers",
+      "unemployment",
+      "business ethics",
+      "poverty",
+      "the poor",
+      "almsgiving",
+      "tithing",
+      "greed",
+      "wealth",
+      "rich",
+      "environment",
+      "climate",
+      "animals",
+      "gambling",
+      "debt",
+      "usury",
+      "cheating",
+      "fraud",
+      "tax evasion"
+    ],
+    "ranges": [
+      [
+        2401,
+        2463
+      ]
+    ],
+    "scripture": [
+      "Exodus 20:15",
+      "Matthew 25:31-46",
+      "Luke 12:13-21",
+      "Luke 16:19-31",
+      "James 5:1-6",
+      "1 Timothy 6:6-10",
+      "Deuteronomy 24:14-15",
+      "Acts 2:44-45",
+      "Genesis 1:26-31"
+    ]
+  },
+  {
+    "slug": "truth-and-lying",
+    "name": "Truth, lying and reputation",
+    "category": "Commandments",
+    "description": "The Eighth Commandment: bearing witness to the truth, lying, rash judgment, detraction and calumny (gossip), professional secrets, the media, and truth in art.",
+    "keywords": [
+      "lying",
+      "is lying always a sin",
+      "white lie",
+      "gossip",
+      "detraction",
+      "calumny",
+      "slander",
+      "rash judgment",
+      "reputation",
+      "honesty",
+      "secrets",
+      "confidentiality",
+      "media",
+      "fake news",
+      "flattery",
+      "boasting",
+      "martyrdom",
+      "witness"
+    ],
+    "ranges": [
+      [
+        2464,
+        2513
+      ]
+    ],
+    "scripture": [
+      "Exodus 20:16",
+      "John 8:31-32",
+      "Ephesians 4:25",
+      "Matthew 5:37",
+      "Proverbs 12:22",
+      "James 3:1-12",
+      "Sirach 27:16-21"
+    ]
+  },
+  {
+    "slug": "envy-and-poverty-of-heart",
+    "name": "Envy, greed and detachment",
+    "category": "Commandments",
+    "description": "The Tenth Commandment: disordered desire for goods, envy, greed, poverty of heart and the desire for God.",
+    "keywords": [
+      "envy",
+      "jealousy",
+      "greed",
+      "covet",
+      "coveting",
+      "materialism",
+      "detachment",
+      "poverty of heart",
+      "blessed are the poor",
+      "consumerism"
+    ],
+    "ranges": [
+      [
+        2534,
+        2557
+      ]
+    ],
+    "scripture": [
+      "Exodus 20:17",
+      "Matthew 6:19-24",
+      "Luke 12:15",
+      "Matthew 5:3",
+      "1 Timothy 6:6-10",
+      "Wisdom 2:24"
+    ]
+  },
+  {
+    "slug": "angels-and-demons",
+    "name": "Angels, demons and the devil",
+    "category": "Faith and revelation",
+    "description": "The existence and mission of angels, guardian angels, and Satan and the fallen angels.",
+    "keywords": [
+      "angels",
+      "guardian angel",
+      "archangel",
+      "demons",
+      "devil",
+      "satan",
+      "exorcism",
+      "possession",
+      "spiritual warfare",
+      "temptation"
+    ],
+    "ranges": [
+      [
+        328,
+        336
+      ],
+      [
+        391,
+        395
+      ],
+      [
+        1673,
+        1673
+      ],
+      [
+        2850,
+        2854
+      ]
+    ],
+    "scripture": [
+      "Psalm 91:11-12",
+      "Matthew 18:10",
+      "Hebrews 1:14",
+      "Revelation 12:7-9",
+      "1 Peter 5:8-9",
+      "Ephesians 6:10-17",
+      "Luke 4:1-13"
+    ]
+  },
+  {
+    "slug": "ivf-and-infertility",
+    "name": "IVF, artificial insemination and infertility",
+    "category": "Marriage and family",
+    "description": "Assisted reproduction (IVF, artificial insemination, donor gametes, surrogacy), the right of a child to be conceived within marriage, and the suffering of infertile couples.",
+    "keywords": [
+      "ivf",
+      "in vitro",
+      "in vitro fertilization",
+      "artificial insemination",
+      "surrogacy",
+      "surrogate",
+      "infertility",
+      "infertile",
+      "fertility treatment",
+      "embryo transfer",
+      "donor sperm",
+      "egg donation",
+      "sterile",
+      "test tube",
+      "assisted reproduction"
+    ],
+    "ranges": [
+      [
+        2373,
+        2379
+      ]
+    ],
+    "scripture": [
+      "Genesis 15:2-6",
+      "Genesis 30:1-2",
+      "Psalm 139:13-16",
+      "Luke 1:5-25"
+    ]
+  },
+  {
+    "slug": "real-presence",
+    "name": "The Real Presence and transubstantiation",
+    "category": "Sacraments",
+    "description": "Christ truly, really and substantially present in the Eucharist; transubstantiation; worship of the Eucharist.",
+    "keywords": [
+      "real presence",
+      "really present",
+      "truly present",
+      "transubstantiation",
+      "body and blood of christ",
+      "is the eucharist really jesus",
+      "bread and wine become",
+      "adoration",
+      "tabernacle",
+      "symbol or real"
+    ],
+    "ranges": [
+      [
+        1373,
+        1381
+      ],
+      [
+        1413,
+        1413
+      ]
+    ],
+    "scripture": [
+      "John 6:48-58",
+      "Matthew 26:26-28",
+      "Luke 22:19-20",
+      "1 Corinthians 11:23-29",
+      "1 Corinthians 10:16-17"
+    ]
+  },
+  {
+    "slug": "purgatory",
+    "name": "Purgatory",
+    "category": "The Church",
+    "description": "The final purification of the elect, prayer for the dead, and indulgences.",
+    "keywords": [
+      "purgatory",
+      "final purification",
+      "prayers for the dead",
+      "praying for the dead",
+      "indulgence",
+      "indulgences",
+      "souls in purgatory",
+      "masses for the dead"
+    ],
+    "ranges": [
+      [
+        1030,
+        1032
+      ],
+      [
+        1471,
+        1479
+      ],
+      [
+        958,
+        958
+      ]
+    ],
+    "scripture": [
+      "2 Maccabees 12:43-46",
+      "1 Corinthians 3:11-15",
+      "Matthew 12:31-32",
+      "Matthew 5:25-26"
+    ]
+  },
+  {
+    "slug": "heaven-and-hell",
+    "name": "Heaven, hell and the last judgment",
+    "category": "The Church",
+    "description": "Particular judgment, heaven, hell as definitive self-exclusion from God, and the last judgment.",
+    "keywords": [
+      "heaven",
+      "hell",
+      "eternal life",
+      "eternal punishment",
+      "damnation",
+      "last judgment",
+      "final judgment",
+      "particular judgment",
+      "beatific vision",
+      "does hell exist",
+      "who goes to hell"
+    ],
+    "ranges": [
+      [
+        1020,
+        1029
+      ],
+      [
+        1033,
+        1041
+      ],
+      [
+        1038,
+        1050
+      ]
+    ],
+    "scripture": [
+      "Matthew 25:31-46",
+      "John 14:1-3",
+      "Revelation 21:1-7",
+      "Matthew 13:41-43",
+      "Luke 16:19-31",
+      "1 Corinthians 2:9"
+    ]
+  },
+  {
+    "slug": "erroneous-conscience",
+    "name": "Following an erroneous conscience",
+    "category": "Moral life",
+    "description": "The duty to follow a certain conscience, when a mistaken conscience is culpable, and invincible ignorance.",
+    "keywords": [
+      "even if it is wrong",
+      "erroneous conscience",
+      "mistaken conscience",
+      "wrong conscience",
+      "invincible ignorance",
+      "conscience is wrong",
+      "obey my conscience",
+      "follow my conscience",
+      "conscience says"
+    ],
+    "ranges": [
+      [
+        1790,
+        1794
+      ],
+      [
+        1776,
+        1776
+      ],
+      [
+        1782,
+        1782
+      ]
+    ],
+    "scripture": [
+      "Romans 2:14-16",
+      "Romans 14:22-23",
+      "1 Corinthians 8:7-13",
+      "Acts 24:16"
+    ]
+  },
+  {
+    "slug": "salvation-outside-the-church",
+    "name": "Salvation outside the Church",
+    "category": "The Church",
+    "description": "'Outside the Church there is no salvation' rightly understood: the Church as necessary for salvation, those who do not know Christ, and the necessity of Baptism.",
+    "keywords": [
+      "no salvation outside the church",
+      "outside the church",
+      "non catholics saved",
+      "not catholic be saved",
+      "can protestants be saved",
+      "can non christians be saved",
+      "never heard of jesus",
+      "never heard the gospel",
+      "who can be saved",
+      "baptism necessary for salvation",
+      "salvation for non catholics",
+      "invincible ignorance of the gospel",
+      "other religions saved"
+    ],
+    "ranges": [
+      [
+        846,
+        848
+      ],
+      [
+        1257,
+        1261
+      ],
+      [
+        839,
+        845
+      ]
+    ],
+    "scripture": [
+      "Mark 16:15-16",
+      "John 3:5",
+      "1 Timothy 2:3-6",
+      "Acts 17:26-28",
+      "Acts 10:34-35",
+      "Romans 2:14-16"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+/build
+next-env.d.ts
+*.tsbuildinfo
+
+# env files
+.env*
+!.env.example
+
+# Downloaded source texts, models and the built database.
+# The Catechism text is copyrighted (USCCB / Libreria Editrice Vaticana) and must
+# never be committed; it is downloaded at setup time. See README.
+/data/raw/
+/data/models/
+/data/*.db
+/data/*.db-journal
+/data/*.db-wal
+/data/*.db-shm
+/data/cache/
+
+# misc
+.DS_Store
+npm-debug.log*
