@@ -27,6 +27,7 @@ const WEIGHTS = {
   topic: 1.1, // per-topic rank list, scaled by the topic's match rank
   topicBoost: 0.006, // flat bonus for candidates that fall inside a matched topic's ranges
   scriptureLink: 0.004,
+  norm: 0.004, // per matched marker (max 2): paragraphs that state a norm, when the question asks whether something is a sin / allowed
   // Bible: passages the curated index or the Catechism itself points to are far more reliable
   // than free-text similarity, which is noisy for abstract doctrinal questions.
   bibleKeyword: 0.9,
@@ -35,6 +36,17 @@ const WEIGHTS = {
   catechismCites: 1.2, // Bible passages cited by a top Catechism hit form their own rank list
 };
 const IN_TOPIC_CANDIDATES = 8;
+
+/**
+ * Questions asking whether something is a sin, allowed or obligatory are best answered by the
+ * paragraph that states the norm itself, which is often outranked by neighbours that discuss the
+ * subject at greater length. The Catechism states norms in a small juridical vocabulary, so when
+ * the question uses one of these words, candidates whose text uses one of the markers get a flat
+ * bonus (like topicBoost) on top of their fused score; a paragraph that both names an obligation
+ * and calls its breach a grave sin counts double.
+ */
+const NORM_QUERY_WORDS = new Set(["sin", "sinful", "allowed", "permitted", "forbidden", "obligation"]);
+const NORM_TEXT_MARKERS = ["grave sin", "gravely", "obligation", "forbids", "permitted"];
 
 /** Weight of the i-th matched topic (0-based): the best match counts most, later ones still matter. */
 function topicRankWeight(base: number, i: number): number {
@@ -232,6 +244,17 @@ export async function search(db: DB, rawQuery: string, options: SearchOptions = 
       if (inRanges(id, topic.ranges)) ccc.add(id, "topic", topicRankWeight(WEIGHTS.topicBoost, ti));
     }
   });
+
+  if (tokens.some((t) => NORM_QUERY_WORDS.has(t))) {
+    const ids = [...ccc.scores.keys()];
+    if (ids.length) {
+      const markers = NORM_TEXT_MARKERS.map(() => "(text LIKE ?)").join(" + ");
+      const rows = db
+        .prepare(`SELECT n, markers FROM (SELECT n, ${markers} AS markers FROM ccc_paragraphs WHERE n IN (${ids.map(() => "?").join(",")})) WHERE markers > 0`)
+        .all(...NORM_TEXT_MARKERS.map((m) => `%${m}%`), ...ids) as { n: number; markers: number }[];
+      for (const r of rows) ccc.add(r.n, "norm", WEIGHTS.norm * Math.min(r.markers, 2));
+    }
+  }
 
   // ---------------- Bible ----------------
   const bible = new Fuser<Signal<BibleHit["signals"][number]>>();

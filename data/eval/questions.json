@@ -264,5 +264,66 @@
       "Deuteronomy 18:10-12",
       "Leviticus 19:31"
     ]
+  },
+  {
+    "id": 19,
+    "question": "Is it a sin to miss Mass on Sunday?",
+    "expectedCcc": [
+      2181,
+      2180,
+      2182
+    ],
+    "expectedBible": [
+      "Hebrews 10:25",
+      "Exodus 20:8-11"
+    ],
+    "expectedCccTop": {
+      "k": 3,
+      "paragraphs": [
+        2181
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "question": "Can Catholics get cremated?",
+    "expectedCcc": [
+      2301,
+      2300
+    ],
+    "expectedBible": [],
+    "expectedCccTop": {
+      "k": 2,
+      "paragraphs": [
+        2300,
+        2301
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "question": "Why do Catholics confess to a priest?",
+    "expectedCcc": [
+      1441,
+      1442,
+      1461
+    ],
+    "expectedBible": [
+      "John 20:21-23"
+    ],
+    "expectedCccAbove": [
+      [
+        1441,
+        1467
+      ],
+      [
+        1442,
+        1467
+      ],
+      [
+        1461,
+        1467
+      ]
+    ]
   }
 ]

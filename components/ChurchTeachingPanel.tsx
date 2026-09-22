@@ -46,6 +46,7 @@ const SIGNAL_LABEL: Record<CccHit["signals"][number], string> = {
   semantic: "meaning",
   topic: "topic index",
   "scripture-link": "cites a matching passage",
+  norm: "states the rule",
 };
 
 function ParagraphCard({ hit }: { hit: CccHit }) {

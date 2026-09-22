@@ -484,7 +484,6 @@
       "confession",
       "reconciliation",
       "penance",
-      "why confess to a priest",
       "absolution",
       "forgiveness of sins",
       "how often confess",
@@ -492,11 +491,8 @@
       "contrition",
       "can god forgive me",
       "mortal sin confession",
-      "confess to a priest",
       "confess",
-      "confessing",
-      "tell my sins to a priest",
-      "priest forgive sins"
+      "confessing"
     ],
     "ranges": [
       [
@@ -516,6 +512,39 @@
       "2 Corinthians 5:18-20",
       "1 John 1:8-9",
       "Psalm 51:1-12"
+    ]
+  },
+  {
+    "slug": "confession-to-a-priest",
+    "name": "Why confess to a priest",
+    "category": "Sacraments",
+    "description": "Why Catholics confess to a priest rather than to God alone: only God forgives sins, but Christ entrusted the power of absolution to the apostles and their successors, the bishops and priests.",
+    "keywords": [
+      "why confess to a priest",
+      "confess to a priest",
+      "confess my sins to a priest",
+      "tell my sins to a priest",
+      "priest forgive sins",
+      "confess directly to god",
+      "confess to god directly",
+      "why not confess to god",
+      "power to forgive sins"
+    ],
+    "ranges": [
+      [
+        1441,
+        1442
+      ],
+      [
+        1461,
+        1461
+      ]
+    ],
+    "scripture": [
+      "John 20:21-23",
+      "Matthew 18:18",
+      "James 5:16",
+      "2 Corinthians 5:18-20"
     ]
   },
   {
@@ -852,19 +881,12 @@
       "organ donation",
       "transplant",
       "medical research",
-      "cremation",
       "autopsy",
       "respect for the body",
       "tattoo",
       "gluttony",
       "health",
-      "cremated",
-      "cremation",
-      "burial",
-      "funeral",
-      "scattering ashes",
-      "ashes",
-      "body after death"
+      "funeral"
     ],
     "ranges": [
       [
@@ -881,6 +903,36 @@
       "Sirach 38:1-15",
       "Proverbs 23:29-35",
       "Romans 12:1-2"
+    ]
+  },
+  {
+    "slug": "cremation-and-burial",
+    "name": "Cremation, burial and respect for the dead",
+    "category": "Life issues",
+    "description": "Whether Catholics may be cremated, and how the bodies of the dead are to be treated: burial as a work of mercy, and cremation permitted provided it does not deny faith in the resurrection of the body.",
+    "keywords": [
+      "cremation",
+      "cremated",
+      "cremate",
+      "get cremated",
+      "scattering ashes",
+      "ashes",
+      "burial",
+      "buried",
+      "body after death",
+      "bodies of the dead",
+      "respect for the dead"
+    ],
+    "ranges": [
+      [
+        2300,
+        2301
+      ]
+    ],
+    "scripture": [
+      "1 Corinthians 15:42-44",
+      "1 Corinthians 6:19-20",
+      "Genesis 3:19"
     ]
   },
   {

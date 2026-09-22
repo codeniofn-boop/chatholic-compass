@@ -34,7 +34,7 @@ export interface CccParagraph {
 export interface CccHit extends CccParagraph {
   score: number;
   /** Why this paragraph is here: which signals fired. */
-  signals: ("keyword" | "semantic" | "topic" | "scripture-link")[];
+  signals: ("keyword" | "semantic" | "topic" | "scripture-link" | "norm")[];
 }
 
 export interface CccGroup {
