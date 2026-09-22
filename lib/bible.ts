@@ -13,7 +13,7 @@ interface PassageRow {
 
 export function referenceLabel(book: string, chapter: number, verseStart?: number, verseEnd?: number): string {
   const b = BOOK_BY_CODE[book];
-  const name = b?.name ?? book;
+  const name = book === "PSA" ? "Psalm" : (b?.name ?? book);
   const ch = book === "PSA" ? douayPsalmToHebrew(chapter) : String(chapter);
   let s = `${name} ${ch}`;
   if (verseStart) s += `:${verseStart}`;
