@@ -346,7 +346,9 @@
       "pray to the saints",
       "intercession of the saints",
       "intercession",
-      "death"
+      "after death",
+      "when we die",
+      "dead"
     ],
     "ranges": [
       [
@@ -489,7 +491,12 @@
       "examination of conscience",
       "contrition",
       "can god forgive me",
-      "mortal sin confession"
+      "mortal sin confession",
+      "confess to a priest",
+      "confess",
+      "confessing",
+      "tell my sins to a priest",
+      "priest forgive sins"
     ],
     "ranges": [
       [
@@ -850,12 +857,23 @@
       "respect for the body",
       "tattoo",
       "gluttony",
-      "health"
+      "health",
+      "cremated",
+      "cremation",
+      "burial",
+      "funeral",
+      "scattering ashes",
+      "ashes",
+      "body after death"
     ],
     "ranges": [
       [
         2288,
         2301
+      ],
+      [
+        1680,
+        1690
       ]
     ],
     "scripture": [
@@ -1086,7 +1104,18 @@
       "forgive us our trespasses",
       "revenge",
       "anger",
-      "hatred"
+      "hatred",
+      "forgiving",
+      "forgiven",
+      "apologize",
+      "apologized",
+      "apology",
+      "hasn't apologized",
+      "not sorry",
+      "unrepentant",
+      "forgive someone",
+      "let go of anger",
+      "reconciliation with someone"
     ],
     "ranges": [
       [

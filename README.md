@@ -98,6 +98,7 @@ entries in `data/topics.json`.
 | Text | Source | License |
 | --- | --- | --- |
 | Catechism of the Catholic Church (English, 2nd ed., with the 2018 revision of ¶2267) | `CCC.jsonl` from the [Catholic Doctrine and Magisterium RAG Corpus v1.0.0](https://github.com/GibbilyGooo/catholic-doctrine-magisterium-rag-corpus) (AD IPSUM), whose text was transcribed from the Vatican archive | The corpus metadata is CC0, but **the Catechism text is © 1994/1997 United States Conference of Catholic Bishops – Libreria Editrice Vaticana**. It is not public domain and is not relicensed by the corpus. |
+| Cross-references from the *Compendium of the Catechism* | `source/derived/cross_reference_graph.json` in the same corpus | Only the paragraph-number groupings are used (which CCC paragraphs a Compendium question points to), stored as pairs of integers to power "Related paragraphs". **No Compendium text is downloaded, stored or displayed.** |
 | Catechism heading tree | [nossbigg/catechism-ccc-json](https://github.com/nossbigg/catechism-ccc-json) (`reference/toc-reference.txt`, used only to cross-check heading titles) | No license stated; headings are part of the CCC text above. |
 | Douay-Rheims Bible, Challoner revision, with Challoner's notes and chapter summaries | [BibleCorps/ENG-B-DRC1750-pd-PSFM](https://github.com/BibleCorps/ENG-B-DRC1750-pd-PSFM) (USFM) | Public domain ("This entire text is in the public domain. No copyright."). |
 | Embedding model `all-MiniLM-L6-v2` (ONNX build by Xenova) | Hugging Face Hub | Apache-2.0 |

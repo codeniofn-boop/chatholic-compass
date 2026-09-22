@@ -1,20 +1,268 @@
 [
-  { "id": 1, "question": "What does the Church teach about IVF?", "expectedCcc": [2376, 2377, 2378], "expectedBible": ["Genesis 1:28", "Psalm 139:13-16"] },
-  { "id": 2, "question": "Is it a sin to skip Mass on Sunday?", "expectedCcc": [2180, 2181, 2182, 2042], "expectedBible": ["Hebrews 10:25", "Exodus 20:8-11"] },
-  { "id": 3, "question": "Where does the Bible talk about forgiveness?", "expectedCcc": [2838, 2840, 2842, 2843, 2844, 2845], "expectedBible": ["Matthew 18:21-22", "Matthew 6:14-15", "Luke 23:34", "Colossians 3:13"] },
-  { "id": 4, "question": "What is the Church's position on the death penalty?", "expectedCcc": [2267, 2266], "expectedBible": ["Romans 13:4", "Genesis 4:15"] },
-  { "id": 5, "question": "Is contraception allowed for married couples?", "expectedCcc": [2370, 2366, 2368, 2399], "expectedBible": ["Genesis 1:28"] },
-  { "id": 6, "question": "When does the Church say human life begins, and is abortion always wrong?", "expectedCcc": [2270, 2271, 2272, 2274], "expectedBible": ["Jeremiah 1:5", "Psalm 139:13-16"] },
-  { "id": 7, "question": "What is purgatory and is it in the Bible?", "expectedCcc": [1030, 1031, 1032], "expectedBible": ["2 Maccabees 12:44-46", "1 Corinthians 3:15"] },
-  { "id": 8, "question": "Is Jesus really present in the Eucharist?", "expectedCcc": [1374, 1375, 1376, 1377, 1413], "expectedBible": ["John 6:51-58", "Matthew 26:26-28", "1 Corinthians 11:23-27"] },
-  { "id": 9, "question": "What makes a sin mortal rather than venial?", "expectedCcc": [1854, 1855, 1856, 1857, 1858, 1859, 1862], "expectedBible": ["1 John 5:16-17"] },
-  { "id": 10, "question": "Do I have to follow my conscience even if it is wrong?", "expectedCcc": [1776, 1782, 1790, 1791, 1792, 1793], "expectedBible": ["Romans 2:14-16"] },
-  { "id": 11, "question": "Can a divorced and remarried Catholic receive Communion?", "expectedCcc": [1650, 1651, 2384, 2385, 1665], "expectedBible": ["Matthew 19:6-9", "Mark 10:11-12"] },
-  { "id": 12, "question": "Is lying ever justified, for example to protect someone?", "expectedCcc": [2482, 2483, 2484, 2485, 2489], "expectedBible": ["Exodus 20:16", "Ephesians 4:25", "Proverbs 12:22"] },
-  { "id": 13, "question": "What does the Church teach about homosexuality?", "expectedCcc": [2357, 2358, 2359], "expectedBible": ["Genesis 19:1-29", "Romans 1:24-27", "1 Corinthians 6:9-10"] },
-  { "id": 14, "question": "Why do Catholics pray to Mary and the saints?", "expectedCcc": [956, 957, 971, 2673, 2674, 2675, 2683], "expectedBible": ["Luke 1:48", "Revelation 5:8", "Hebrews 12:1"] },
-  { "id": 15, "question": "Can people who are not Catholic be saved?", "expectedCcc": [846, 847, 848, 1260], "expectedBible": ["Mark 16:16", "John 3:5", "1 Timothy 2:4", "Acts 17:26-28"] },
-  { "id": 16, "question": "Is euthanasia or assisted suicide ever permitted?", "expectedCcc": [2276, 2277, 2278, 2279, 2324], "expectedBible": ["Deuteronomy 30:19", "Job 1:21"] },
-  { "id": 17, "question": "What are the conditions for a just war?", "expectedCcc": [2309, 2308, 2310, 2312, 2313], "expectedBible": ["Romans 13:4", "Matthew 5:9"] },
-  { "id": 18, "question": "Are horoscopes and psychics against Church teaching?", "expectedCcc": [2116, 2117, 2115], "expectedBible": ["Deuteronomy 18:10-12", "Leviticus 19:31"] }
+  {
+    "id": 1,
+    "question": "What does the Church teach about IVF?",
+    "expectedCcc": [
+      2376,
+      2377,
+      2378
+    ],
+    "expectedBible": [
+      "Genesis 1:28",
+      "Psalm 139:13-16"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Is it a sin to skip Mass on Sunday?",
+    "expectedCcc": [
+      2180,
+      2181,
+      2182,
+      2042
+    ],
+    "expectedBible": [
+      "Hebrews 10:25",
+      "Exodus 20:8-11"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Where does the Bible talk about forgiveness?",
+    "expectedCcc": [
+      2838,
+      2840,
+      2842,
+      2843,
+      2844,
+      2845
+    ],
+    "expectedBible": [
+      "Matthew 18:21-22",
+      "Matthew 6:14-15",
+      "Luke 23:34",
+      "Colossians 3:13"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What is the Church's position on the death penalty?",
+    "expectedCcc": [
+      2267,
+      2266
+    ],
+    "expectedBible": [
+      "Romans 13:1-3",
+      "Genesis 4:15"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Is contraception allowed for married couples?",
+    "expectedCcc": [
+      2370,
+      2366,
+      2368,
+      2399
+    ],
+    "expectedBible": [
+      "Genesis 1:28"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "When does the Church say human life begins, and is abortion always wrong?",
+    "expectedCcc": [
+      2270,
+      2271,
+      2272,
+      2274
+    ],
+    "expectedBible": [
+      "Jeremiah 1:5",
+      "Psalm 139:13-16"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "What is purgatory and is it in the Bible?",
+    "expectedCcc": [
+      1030,
+      1031,
+      1032
+    ],
+    "expectedBible": [
+      "2 Maccabees 12:44-46",
+      "1 Corinthians 3:15"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Is Jesus really present in the Eucharist?",
+    "expectedCcc": [
+      1374,
+      1375,
+      1376,
+      1377,
+      1413
+    ],
+    "expectedBible": [
+      "John 6:51-58",
+      "Matthew 26:26-28",
+      "1 Corinthians 11:23-27"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "What makes a sin mortal rather than venial?",
+    "expectedCcc": [
+      1854,
+      1855,
+      1856,
+      1857,
+      1858,
+      1859,
+      1862
+    ],
+    "expectedBible": [
+      "1 John 5:16-17"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Do I have to follow my conscience even if it is wrong?",
+    "expectedCcc": [
+      1776,
+      1782,
+      1790,
+      1791,
+      1792,
+      1793
+    ],
+    "expectedBible": [
+      "Romans 2:14-16"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Can a divorced and remarried Catholic receive Communion?",
+    "expectedCcc": [
+      1650,
+      1651,
+      2384,
+      2385,
+      1665
+    ],
+    "expectedBible": [
+      "Matthew 19:6-9",
+      "Mark 10:11-12"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Is lying ever justified, for example to protect someone?",
+    "expectedCcc": [
+      2482,
+      2483,
+      2484,
+      2485,
+      2489
+    ],
+    "expectedBible": [
+      "Exodus 20:16",
+      "Ephesians 4:25",
+      "Proverbs 12:22"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "What does the Church teach about homosexuality?",
+    "expectedCcc": [
+      2357,
+      2358,
+      2359
+    ],
+    "expectedBible": [
+      "Genesis 19:1-29",
+      "Romans 1:24-27",
+      "1 Corinthians 6:9-10"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Why do Catholics pray to Mary and the saints?",
+    "expectedCcc": [
+      956,
+      957,
+      971,
+      2673,
+      2674,
+      2675,
+      2683
+    ],
+    "expectedBible": [
+      "Luke 1:48",
+      "Revelation 5:8",
+      "Hebrews 12:1"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Can people who are not Catholic be saved?",
+    "expectedCcc": [
+      846,
+      847,
+      848,
+      1260
+    ],
+    "expectedBible": [
+      "Mark 16:16",
+      "John 3:5",
+      "1 Timothy 2:4",
+      "Acts 17:26-28"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Is euthanasia or assisted suicide ever permitted?",
+    "expectedCcc": [
+      2276,
+      2277,
+      2278,
+      2279,
+      2324
+    ],
+    "expectedBible": [
+      "Deuteronomy 30:19",
+      "Job 1:21"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "What are the conditions for a just war?",
+    "expectedCcc": [
+      2309,
+      2308,
+      2310,
+      2312,
+      2313
+    ],
+    "expectedBible": [
+      "Romans 13:1-3",
+      "Matthew 5:9"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Are horoscopes and psychics against Church teaching?",
+    "expectedCcc": [
+      2116,
+      2117,
+      2115
+    ],
+    "expectedBible": [
+      "Deuteronomy 18:10-12",
+      "Leviticus 19:31"
+    ]
+  }
 ]

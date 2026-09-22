@@ -101,7 +101,13 @@ function normalizeForMatch(s: string): string {
 
 /** Naive singular/plural + inflection folding so "horoscopes" matches the keyword "horoscope". */
 function stemWord(w: string): string {
-  return w.replace(/(ies)$/, "y").replace(/(sses|shes|ches|xes)$/, (m) => m.slice(0, -2)).replace(/s$/, "").replace(/ing$/, "").replace(/ed$/, "");
+  if (w.length <= 3) return w;
+  return w
+    .replace(/(ies)$/, "y")
+    .replace(/(sses|shes|ches|xes)$/, (m) => m.slice(0, -2))
+    .replace(/s$/, "")
+    .replace(/(ing|ed)$/, "")
+    .replace(/e$/, ""); // forgive / forgiving -> forgiv
 }
 
 function stemPhrase(s: string): string {

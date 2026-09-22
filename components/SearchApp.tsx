@@ -8,6 +8,7 @@ import { clearHistory, getHistorySnapshot, getServerHistorySnapshot, pushHistory
 import { SearchBox } from "./SearchBox";
 import { ChurchTeachingPanel } from "./ChurchTeachingPanel";
 import { ScripturePanel } from "./ScripturePanel";
+import { MissedLink } from "./MissedLink";
 
 const EXAMPLES = [
   "What does the Church teach about IVF?",
@@ -167,9 +168,12 @@ export function SearchApp({ initialQuery, initialResult, initialError, topics }:
             </div>
           </div>
 
-          <p className="mt-16 text-xs text-ink-3">
-            Ranked locally by keyword match, semantic similarity, the topic index and the Catechism&apos;s own citations · {result.timings.embedMs + result.timings.searchMs} ms
-          </p>
+          <div className="mt-16 flex flex-wrap items-baseline justify-between gap-x-8 gap-y-2 border-t hairline pt-5">
+            <MissedLink query={result.query} />
+            <p className="text-xs text-ink-3">
+              Ranked locally by keyword match, semantic similarity, the topic index and the Catechism&apos;s own citations · {result.timings.embedMs + result.timings.searchMs} ms
+            </p>
+          </div>
         </section>
       )}
     </div>
