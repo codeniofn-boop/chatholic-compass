@@ -61,8 +61,8 @@ Then open http://localhost:3000.
 
 Offline machines: set `EMBEDDING_MODEL_DIR` in `.env` to a directory that already contains
 `Xenova/all-MiniLM-L6-v2/{config.json,tokenizer.json,tokenizer_config.json,special_tokens_map.json,onnx/model_quantized.onnx}`.
-If `npm install` fails while `onnxruntime-node` tries to download optional CUDA binaries, run it with
-`ONNXRUNTIME_NODE_INSTALL_CUDA=skip npm install`.
+If `npm install` fails while `onnxruntime-node` tries to download optional GPU (CUDA/DML) binaries, run it with
+`ONNXRUNTIME_NODE_INSTALL=skip npm install`.
 
 ## Scripts
 
